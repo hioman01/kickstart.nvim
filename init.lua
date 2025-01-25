@@ -1032,6 +1032,10 @@ require('lazy').setup({
     'brenoprata10/nvim-highlight-colors',
     opts = {},
   },
+  {
+    'sindrets/diffview.nvim',
+    opts = {},
+  },
 }, {
   ui = {
     -- If you are using a Nerd Font: set icons to an empty table which will use the
